@@ -1,0 +1,44 @@
+{
+  "packages": [
+    {
+      "title": "Pilates Reformer Trial Class",
+      "validUntil": "Valid until 15 June 2025",
+      "credits_total": 3,
+      "credits_remaining": 2,
+      "is_active": true,
+      "classType": "Pilates"
+    },
+    {
+      "title": "Pilates Reformer Single Pass",
+      "validUntil": "Valid until 23 May 2025",
+      "credits_total": 3,
+      "credits_remaining": 0,
+      "is_active": false,
+      "classType": "Pilates"
+    },
+    {
+      "title": "Pilates Reformer Group Pass",
+      "validUntil": "Valid until 30 June 2025",
+      "credits_total": 5,
+      "credits_remaining": 4,
+      "is_active": true,
+      "classType": "Pilates"
+    },
+    {
+      "title": "Pilates Reformer Single Pass",
+      "validUntil": "Expired on 16 May 2025",
+      "credits_total": 3,
+      "credits_remaining": 0,
+      "is_active": false,
+      "classType": "Pilates"
+    },
+    {
+      "title": "Yoga Group Pass",
+      "validUntil": "Valid until 30 June 2025",
+      "credits_total": 10,
+      "credits_remaining": 8,
+      "is_active": false,
+      "classType": "Yoga"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "classes": [
+    {
+      "title": "Yoga Class",
+      "description": "Join our Yoga Class to enhance flexibility and inner peace with gentle stretches and mindfulness techniques, suitable for all levels.",
+      "date": "2025-07-01",
+      "time": "09:00 AM",
+      "duration": "1 hour",
+      "instructor": "Alice",
+      "instructorImage": "assets/sharon.png",
+      "booked": 10,
+      "slots": 15,
+      "type": "class",
+      "image": "assets/yoga_class.jpg",
+      "credit": 1,
+      "classType": "Yoga"
+    },
+    {
+      "title": "Pilates Class",
+      "description": "A full-body Pilates workout to strengthen your core and improve posture, perfect for all fitness levels.",
+      "date": "2025-06-29",
+      "time": "11:00 PM",
+      "duration": "1 hour",
+      "instructor": "Bob",
+      "instructorImage": "assets/vivian.png",
+      "booked": 15,
+      "slots": 15,
+      "type": "class",
+      "image": "assets/pilates_class.jpg",
+      "credit": 1,
+      "classType": "Pilates"
+    },
+    {
+      "title": "Chair Yoga Class",
+      "description": "A gentle Yoga workout using a chair to enhance flexibility and relaxation, ideal for all fitness levels.",
+      "date": "2025-07-01",
+      "time": "11:30 PM",
+      "duration": "1 hour",
+      "instructor": "Annie",
+      "instructorImage": "assets/vivian.png",
+      "booked": 5,
+      "slots": 15,
+      "type": "class",
+      "image": "assets/yoga_class.jpg",
+      "credit": 1,
+      "classType": "Yoga"
+    }
+  ],
+  "events": [
+    {
+      "title": "Special Outdoor Yoga",
+      "description": "Experience yoga in nature with our Special Outdoor Yoga event, designed to rejuvenate your mind and body.",
+      "date": "2025-06-30",
+      "time": "07:00 AM",
+      "duration": "1 hour 30 minutes",
+      "instructor": "Carol",
+      "instructorImage": "assets/vivian.png",
+      "type": "event",
+      "image": "assets/mat_pilates.jpg",
+      "booked": 8,
+      "slots": 20,
+      "price": 50.0,
+      "classType": "Yoga"
+    }
+  ],
+  "creditPackages": [
+    {
+      "title": "Yoga Group Class Lite",
+      "credits": 10,
+      "price": 150.0,
+      "validity": "30 days",
+      "type": "group",
+      "classType": "Yoga"
+    },
+    {
+      "title": "Pilates Group Class Standard",
+      "credits": 20,
+      "price": 280.0,
+      "validity": "60 days",
+      "type": "group",
+      "classType": "Pilates"
+    },
+    {
+      "title": "Private Pilates Class Premium",
+      "credits": 5,
+      "price": 500.0,
+      "validity": "90 days",
+      "type": "private",
+      "classType": "Pilates"
+    }
+  ],
+  "preferredClass": {
+    "title": "Pilates Reformer Trial Class",
+    "credits": 3,
+    "price": 128.0,
+    "validity": "21 days",
+    "description": "3 Classes | Valid for three weeks",
+    "type": "trial",
+    "classType": "Pilates"
+  }
+}

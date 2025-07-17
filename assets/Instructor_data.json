@@ -1,0 +1,49 @@
+{
+  "classes": [
+    {
+      "id": "1",
+      "title": "Pilates Reformer",
+      "date": "2025-06-11",
+      "time": "10:00 AM",
+      "duration": "1 hour",
+      "instructor": "Jane Doe",
+      "instructorImage": "assets/sharon.png",
+      "status": "Booked",
+      "image": "assets/mat_pilates.jpg",
+      "description": "A core-strengthening Pilates class using reformer equipment.",
+      "type": "class",
+      "credit": 2,
+      "price": 0.0,
+      "booked": 8,
+      "slots": 10,
+      "students": [
+        {"name": "Alice Smith", "id": "s1"},
+        {"name": "Bob Johnson", "id": "s2"},
+        {"name": "Emma Davis", "id": "s3"}
+      ],
+      "remarks": "Ensure all equipment is sanitized before class."
+    },
+    {
+      "id": "2",
+      "title": "Yoga Flow",
+      "date": "2025-06-12",
+      "time": "2:00 PM",
+      "duration": "1 hour 30 minutes",
+      "instructor": "John Smith",
+      "instructorImage": "assets/sharon.png",
+      "status": "Waiting",
+      "image": "assets/mat_pilates.jpg",
+      "description": "A dynamic yoga class to improve flexibility and mindfulness.",
+      "type": "class",
+      "credit": 1,
+      "price": 0.0,
+      "booked": 5,
+      "slots": 12,
+      "students": [
+        {"name": "Clara Wilson", "id": "s4"},
+        {"name": "David Lee", "id": "s5"}
+      ],
+      "remarks": ""
+    }
+  ]
+}

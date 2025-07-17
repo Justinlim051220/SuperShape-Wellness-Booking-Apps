@@ -1,0 +1,20 @@
+{
+  "name": "Yushiko Ang",
+  "email": "yushikoang@instructor.ssw.my",
+  "bio": "A certified Pilates Reformer instructor with over 6 years of experience in body alignment, mobility training, and strength-building. Mia is known for her warm personality and progressive class flows that are both safe and challenging for students of all levels.",
+  "experienceYears": 6,
+  "certifications": [
+    "Certified Pilates Reformer Instructor - Pilates Method Alliance (PMA)",
+    "Comprehensive Pilates Certification - Balanced Body",
+    "Bachelor of Science in Kinesiology - University of Malaya",
+    "First Aid & CPR Certified"
+  ],
+  "specializations": [
+    "Postural Alignment",
+    "Core Strengthening",
+    "Pre/Post-Natal Pilates",
+    "Injury Rehabilitation"
+  ],
+  "photo": "assets/sharon.png",
+  "coverPhoto": "assets/mat_pilates.jpg"
+}

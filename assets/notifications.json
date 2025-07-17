@@ -1,0 +1,34 @@
+{
+  "notifications": [
+    {
+      "id": "notif1",
+      "userId": "user123",
+      "sender": "Amy Tan (Admin)",
+      "senderImage": "assets/logo.png",
+      "subject": "💹 Your Class Credits Are Expiring Soon!",
+      "message": "Hi Sarah,\n\nJust a quick reminder that your current class credits are nearing their expiry date. Be sure to use them before they expire so you don't miss out on your favorite classes!\n\nFeel free to reach out if you need any assistance.",
+      "timestamp": "2025-06-06T10:00:00Z",
+      "isRead": false
+    },
+    {
+      "id": "notif2",
+      "userId": "user123",
+      "sender": "John Lee (Admin)",
+      "senderImage": "assets/logo.png",
+      "subject": "🔔 New Pilates Class Added!",
+      "message": "Hi Sarah,\n\nWe've added a new Pilates Reformer class to the timetable! Book your slot now to secure your spot.\n\nBest,\nJohn",
+      "timestamp": "2025-06-05T15:30:00Z",
+      "isRead": true
+    },
+    {
+      "id": "notif3",
+      "userId": "user456",
+      "sender": "Amy Tan (Admin)",
+      "senderImage": "assets/logo.png",
+      "subject": "🎉 Booking Confirmation",
+      "message": "Hi Alex,\n\nYour booking for Summer Yoga Retreat has been confirmed! See you on June 15.\n\nCheers,\nAmy",
+      "timestamp": "2025-06-04T09:00:00Z",
+      "isRead": false
+    }
+  ]
+}

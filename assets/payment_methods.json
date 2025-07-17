@@ -1,0 +1,24 @@
+[
+  {
+    "method": "eWallet",
+    "icon": "qr_code_scanner",
+    "description": "Scan QR to pay using eWallet",
+    "details": "Scan this QR code using your preferred eWallet app. Once paid, upload your receipt.",
+    "image": "assets/qr_code.png",
+    "route": "/ewallet_payment"
+  },
+  {
+    "method": "Online Banking",
+    "icon": "account_balance",
+    "description": "Transfer to our bank account",
+    "details": "Bank Name: Maybank\nAccount Name: Super Shape Wellness\nAccount Number: 123-456-7890\nUpload your receipt after transfer.",
+    "route": "/bank_transfer"
+  },
+  {
+    "method": "Cash",
+    "icon": "money",
+    "description": "Pay at the studio",
+    "details": "Make the cash payment directly at our front desk. Please upload a receipt or confirmation slip.",
+    "route": "/cash_payment"
+  }
+]
