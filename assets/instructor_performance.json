@@ -1,0 +1,27 @@
+{
+  "instructorId": "yushiko",
+  "instructorName": "Yushiko Ang",
+  "totalClasses": 120,
+  "classTypes": [
+    {
+      "type": "Pilates Reformer",
+      "sessions": 70,
+      "totalStudents": 280,
+      "color": "#BDA25B"
+    },
+    {
+      "type": "Pilates Mat",
+      "sessions": 30,
+      "totalStudents": 120,
+      "color": "#4CAF50"
+    },
+    {
+      "type": "Pilates HIIT",
+      "sessions": 20,
+      "totalStudents": 80,
+      "color": "#F44336"
+    }
+  ],
+  "completionRate": 95.5,
+  "averageAttendancePerClass": 4.0
+}

@@ -1,0 +1,10 @@
+{
+  "students": [
+    {"id": "s1", "name": "Alice Smith"},
+    {"id": "s2", "name": "Bob Johnson"},
+    {"id": "s3", "name": "Emma Davis"},
+    {"id": "s4", "name": "Clara Wilson"},
+    {"id": "s5", "name": "David Lee"},
+    {"id": "s6", "name": "Sophie Brown"}
+  ]
+}

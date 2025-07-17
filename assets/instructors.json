@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Sharon Lee",
+    "photo": "assets/sharon.png",
+    "coverPhoto": "assets/mat_pilates.jpg",
+    "specialization": "Senior Yoga Instructor",
+    "bio": "Sharon Lee has over 6 years of experience leading Hatha, Vinyasa, and Restorative yoga sessions, empowering students to achieve mindfulness and physical wellness.",
+    "certifications": ["RYT-500 Yoga Alliance", "Yin Yoga Level 2", "Meditation Coach"],
+    "experienceYears": 6,
+    "email": "sharon.lee@supershapewellness.com",
+    "phoneNumber": "+60123456789",
+    "classTypes": ["Inside Flow"],
+    "upcomingClasses": [
+      {
+        "title": "Hatha Yoga Basics",
+        "date": "2025-06-10",
+        "time": "06:30 PM"
+      },
+      {
+        "title": "Vinyasa Flow Workshop",
+        "date": "2025-06-20",
+        "time": "09:00 AM"
+      }
+    ]
+  },
+  {
+    "name": "Nazirah Ahmad",
+    "photo": "assets/nazz.png",
+    "coverPhoto": "assets/mat_pilates.jpg",
+    "specialization": "Zumba Fitness Coach",
+    "bio": "Nazirah brings infectious energy to her Zumba classes, combining Latin dance moves with high-intensity workouts suitable for all levels.",
+    "certifications": ["Zumba Pro License", "ACE Group Fitness Instructor"],
+    "experienceYears": 4,
+    "email": "nazirah@supershapewellness.com",
+    "phoneNumber": "+60198765432",
+    "socialMedia": {
+      "instagram": "https://instagram.com/nazirah_zumba"
+    },
+    "classTypes": ["Zumba Fitness", "Zumba Toning"],
+    "upcomingClasses": [
+      {
+        "title": "Zumba Party",
+        "date": "2025-06-12",
+        "time": "07:30 PM"
+      }
+    ]
+  },
+  {
+    "name": "Vivian Chen",
+    "photo": "assets/vivian.png",
+    "coverPhoto": "assets/mat_pilates.jpg",
+    "specialization": "Aerial Yoga Specialist",
+    "bio": "Vivian Chen is passionate about aerial yoga, guiding students through dynamic flows to enhance flexibility and core strength with elegance.",
+    "certifications": ["Advanced Aerial Yoga Certified", "RYT-300 Yoga Alliance"],
+    "experienceYears": 5,
+    "email": "vivian.chen@supershapewellness.com",
+    "phoneNumber": "+60187654321",
+    "socialMedia": {
+      "instagram": "https://instagram.com/vivianaerialyoga",
+      "linkedin": "https://linkedin.com/in/vivianchen"
+    },
+    "classTypes": ["Aerial Yoga", "Aerial Fitness"],
+    "upcomingClasses": [
+      {
+        "title": "Aerial Yoga Intro",
+        "date": "2025-06-15",
+        "time": "10:00 AM"
+      }
+    ]
+  }
+]
